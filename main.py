@@ -5,7 +5,7 @@ import mysql.connector
 import cv2
 from PIL import Image, ImageTk
 
-# Initialize Text-to-Speech Engine
+  # Initialize Text-to-Speech Engine
 engine = pyttsx3.init()
 
 # Tkinter Window setup
