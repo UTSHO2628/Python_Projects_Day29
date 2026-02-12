@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 # Initialize Text-to-Speech Engine
 engine = pyttsx3.init()
 
-# Tkinter Window setup
+# Tkinter Window setup.
 root = tk.Tk()
 root.title("Campus Voice Assistant")
 root.geometry("700x600")
