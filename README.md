@@ -1,4 +1,4 @@
-"# Python_Projects_Day29" 
+ "# Python_Projects_Day29" 
 # University_Campus_Voice_Bot  
 # Database {XXAMP} using for question & answer memory
  
@@ -16,4 +16,4 @@ Robot face and video playback for engaging user experience
 
 🛠️ Technologies Used
 
-Python, Tkinter, SpeechRecognition, pyttsx3, MySQL, OpenCV, PIL....
+Python, Tkinter, SpeechRecognition, pyttsx3, MySQL, OpenCV, PIL.....
